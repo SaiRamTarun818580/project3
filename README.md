@@ -8,7 +8,7 @@ This is a web based application developed for health related based website in in
 
 *Project Link* -https://happy-plant-07d9ad300.2.azurestaticapps.net
 
-*project demo video link* - 
+*Project demo video link* - 
 
 ## Azure technologies used for Project
 
@@ -26,6 +26,7 @@ This is a web based application developed for health related based website in in
 
 ### Home -
 
+![Screenshot (71)](https://user-images.githubusercontent.com/118715135/217582448-49781740-360c-4c39-b631-ce8b114cfe9e.png)
 
 
 
@@ -33,21 +34,28 @@ This is a web based application developed for health related based website in in
 
 ### About Us -
 
+![Screenshot (72)](https://user-images.githubusercontent.com/118715135/217582457-622ef02a-d7af-44c5-9685-a6403c3614af.png)
+
+
 
 ### Staff -
+![Screenshot (73)](https://user-images.githubusercontent.com/118715135/217582535-766e7f60-5e69-4056-9b9c-59d7619b28a4.png)
 
 
 
 ### Services -
 
+![Screenshot (74)](https://user-images.githubusercontent.com/118715135/217582496-e0d97dff-98ee-4022-8e4c-d6adb2bb0c5f.png)
 
 
 ### Contact us -
+![Screenshot (75)](https://user-images.githubusercontent.com/118715135/217582559-b2aba3ff-8292-4b0e-80ee-8bf45ab5a61a.png)
 
 
 
 ### Health bot -
 
+![Screenshot (76)](https://user-images.githubusercontent.com/118715135/217582569-ce0e1d86-c808-4be2-bc12-9e9a25d39795.png)
 
 
 
