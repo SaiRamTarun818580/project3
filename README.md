@@ -1,5 +1,5 @@
 
-# ✨   ✨
+# ✨ YOGA  ✨
 
 This is a web based application developed for health related based website in india
 
@@ -23,7 +23,7 @@ This is a web based application developed for health related based website in in
 - User can know about health information through this website.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
+### Home -
 
 
 
@@ -31,6 +31,9 @@ This is a web based application developed for health related based website in in
    
 
 ### About Us -
+
+
+### Staff -
 
 
 
@@ -42,7 +45,7 @@ This is a web based application developed for health related based website in in
 
 
 
-### health bot
+### Health bot -
 
 
 
